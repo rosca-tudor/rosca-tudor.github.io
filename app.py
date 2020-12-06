@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Tudor, World!'
+    return 'Tudor's app!'
