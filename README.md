@@ -1,2 +1,4 @@
 # rosca-tudor.github.io
- rosca tudor
+
+pentru o pagina aici, numele trebuie sa fie:
+index.html
